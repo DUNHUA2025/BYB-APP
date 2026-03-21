@@ -26,7 +26,7 @@ class BybanxApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Bybanx Culture',
+      title: 'Bybanx',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       home: const MainScaffold(),
